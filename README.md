@@ -4,8 +4,8 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ecomind.git
-   cd ecomind
+   git clone https://github.com/Mo-Kash/expense-splitting-app.git
+   cd expense-splitting-app
    ```
 2. Install dependencies:
    ```sh
