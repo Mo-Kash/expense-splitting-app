@@ -1,4 +1,4 @@
-# expense_splitting_app
+# Expense Splitting App
 Expense splitting app for IEEE-CS VIT's App domain.
 [Level completed: 1, with a little bit of 2]
 
