@@ -1,5 +1,16 @@
 # expense_splitting_app
+Expense splitting app for IEEE-CS VIT's App domain.
+[Level completed: 1, with a little bit of 2]
 
+## Features
+1. Add Groups, with any number of members in them.
+2. Groups get stored in the local storage using `Hive` dependency.
+3. Split the total cost equally among all the members with the press of a button.
+4. Static pages for the rest of the app.
+
+## Technologies:
+1. Flutter for building the app.
+2. GitHub for version control.
 
 ## Installation
 1. Clone the repository:
