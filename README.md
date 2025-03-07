@@ -16,6 +16,15 @@
    flutter run
    ```
 
+## Potential Errors while running app:
+   ```
+   execution failed for task ':path_provider_android:compiledebugjavawithjavac'.
+   ```
+### Fix:
+1. /android/setting.gradle -> change `id "com.android.application" version "8.1.0" apply false` to `id "com.android.application" version "8.3.2" apply false`
+2. /android/gradle/gradle-wrapper.properties -> change `distributionUrl=https\://services.gradle.org/distributions/gradle-8.3-all.zip` to `distributionUrl=https\://services.gradle.org/distributions/gradle-8.4-all.zip`
+3. Run App
+
 # App Screenshots:
 
 ## Home Page:
